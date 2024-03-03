@@ -102,7 +102,6 @@ const GraficaBarra = ({ isDashboard = false }) => {
       axisBottom={{
         tickSize: 5,
         tickPadding: 5,
-        tickRotation: 0,
         tickRotation: 90,
         // Configurar el axis bottom
         // legend: isDashboard ? undefined : "Unidad",
